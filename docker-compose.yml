@@ -1,0 +1,9 @@
+version: '3'
+services:
+  notebook:
+    build: .
+    volumes:
+      - ./notebooks:/notebooks
+      - ./jupyter:/root/.jupyter
+    ports:
+      - "8005:8888"
