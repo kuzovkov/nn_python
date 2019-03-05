@@ -1,1 +1,3 @@
 .idea
+notebooks/files/
+!notebooks/files/.gitkeep
