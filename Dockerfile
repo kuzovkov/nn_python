@@ -1,6 +1,5 @@
 # We will use Ubuntu for our image
 FROM ubuntu
-#FROM python:3.6.2
 
 # Updating Ubuntu packages
 RUN apt-get update && yes|apt-get upgrade

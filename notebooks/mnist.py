@@ -311,9 +311,7 @@
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": [
-    ""
-   ]
+   "source": []
   }
  ],
  "metadata": {
@@ -325,7 +323,7 @@
   "language_info": {
    "codemirror_mode": {
     "name": "ipython",
-    "version": 3.0
+    "version": 3
    },
    "file_extension": ".py",
    "mimetype": "text/x-python",
@@ -336,5 +334,5 @@
   }
  },
  "nbformat": 4,
- "nbformat_minor": 0
+ "nbformat_minor": 2
 }
